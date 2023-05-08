@@ -1,0 +1,40 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    margin: 40px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+.container-img {
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 10px;
+    gap: 15px;
+}
+
+.container1 {
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 10px;
+    gap: 20px;
+}
+
